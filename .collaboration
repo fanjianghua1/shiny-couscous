@@ -105,17 +105,7 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "JoeyFan22",
-      "Email": "18348798433@qq.com"
-    },
-    "LockDateTime": "2023-10-25T16:28:35.7683656+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json",
-      "Pages\\页面1.rd"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
